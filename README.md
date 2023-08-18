@@ -1,10 +1,6 @@
 <h1>Descrição do projeto:</h1>
 Projeto desenvolvido com React, para a resolução do exercício do módulo 29 do curso Desenvolvedor Full Stack Java. Página de empregos desenvolvida através do Fork do Github, em seguida o Git Clone foi executada e as altereções no projeto foram realizadas.
 
-<h1>Visualização Online</h1>
-A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:
-Página com informações do Github: https://calculo-imc-react-phi.vercel.app/
-
 # Skills utilizadas:
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
