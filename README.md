@@ -1,5 +1,5 @@
 <h1>Descrição do projeto:</h1>
-Projeto desenvolvido com React, para a resolução do exercício do módulo 29 do curso Desenvolvedor Full Stack Java. Página de empregos desenvolvida através do Fork do Github, em seguida o Git Clone foi executada e as altereções no projeto foram realizadas.
+Projeto desenvolvido com React, para a resolução do exercício do módulo 29 do curso Desenvolvedor Full Stack Java. Página de empregos desenvolvida através do Fork do Github de um usuário, em seguida o Git Clone foi executada e as altereções no projeto foram realizadas.
 
 # Skills utilizadas:
 <div style="display: inline_block"><br>
