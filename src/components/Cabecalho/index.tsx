@@ -1,9 +1,11 @@
-import styles from './Cabecalho.module.css'
+import styled from 'styled-components'
 
-const Cabecalho = () => (
-  <header className={styles.cabecalho}>
-    <h1>EBAC: Global Jobs</h1>
-  </header>
-)
+export const HeaderT = styled.h1`
+background-color: ${(props) => props.theme.corPrincipal};
+  color:#f9f5e7;
+  text-align: center;
+  padding: 24px 0;
+}
 
-export default Cabecalho
+
+`
